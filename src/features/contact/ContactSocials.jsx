@@ -20,7 +20,7 @@ function ContactSocials() {
     {
       social: "instagram",
       un: "divyansh5282",
-      href: "https://www.instagram.com/iamshubh.am",
+      href: "https://www.instagram.com/divyansh5282",
     },
     
 
