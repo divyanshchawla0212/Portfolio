@@ -41,37 +41,37 @@ function Settings() {
     },
     { 
       name: "Mirage", 
-      publisher: "shubham", 
+      publisher: "Divyansh", 
       theme: "shubhMirage", 
       img: atom 
     },
     {
       name: "Xtra-Dark", 
-      publisher: "shubham", 
+      publisher: "Divyansh", 
       theme: "shubhDark", 
       img: dark 
     },
     {
      name: "Twilight", 
-     publisher: "shubham", 
+     publisher: "Divyansh", 
      theme: "twilight", 
      img: twilight 
    },
    {
     name: "Oceanic", 
-    publisher: "shubham", 
+    publisher: "Divyansh", 
     theme: "oceanic", 
     img: darkpro 
   },
   {
     name: "Red", 
-    publisher: "shubham", 
+    publisher: "Divyansh", 
     theme: "pinkishDarkTheme", 
     img: red 
   },
   {
     name: "Yellow&Pink", 
-    publisher: "shubham", 
+    publisher: "Divyansh", 
     theme: "customDarkTheme", 
     img: shades 
   },
