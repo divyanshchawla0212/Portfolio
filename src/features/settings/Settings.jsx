@@ -81,7 +81,7 @@ function Settings() {
     <HelmetProvider>
       <div className="p-8">
         <Helmet>
-          <title>Shubham Sharma | Settings</title>
+          <title>Divyansh Chawla | Settings</title>
         </Helmet>
         <h2 className="text-3xl text-white">Manage Themes</h2>
         <div className="grid gap-5 pt-8 md:grid-cols-3 xl:grid-cols-4 animate-in fade-in zoom-in delay-0 duration-1000">
